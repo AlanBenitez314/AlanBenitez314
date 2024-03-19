@@ -14,7 +14,7 @@ Bienvenido/a a mi GitHub! Soy matemático y me encuentro trabajando como desarro
 ### 📫 ¿Cómo contactarme?
 
 - Email: mateconestrellas@gmail.com
-- LinkedIn: [Alan Benitez]([https://www.linkedin.com/in/tulinkedin/](https://www.linkedin.com/in/alan-benitez-3a714b275/])
+- LinkedIn: [Alan Benitez]((https://www.linkedin.com/in/alan-benitez-3a714b275/])
 
 
 
