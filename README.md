@@ -16,10 +16,8 @@ Bienvenido/a a mi GitHub! Soy matemático y me encuentro trabajando como desarro
 Estoy mas que disponible para ideas y proyectos colaborativos:
 
 - 📧 **Email:** [mateconestrellas@gmail.com](mailto:mateconestrellas@gmail.com)  
-  No dudes en enviarme un email para cualquier consulta o si quieres charlar sobre tecnología y proyectos interesantes.
 
-- 🔗 **LinkedIn:** [Alan Benitez](https://www.linkedin.com/in/alan-benitez-3a714b275/)  
-  Conectemos en LinkedIn para ampliar nuestra red profesional y compartir oportunidades.
+- 🔗 **LinkedIn:** [Alan Benitez](https://www.linkedin.com/in/alan-benitez-3a714b275/) 
 
 
 
