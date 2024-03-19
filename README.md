@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola, soy Alan! 👋
 
-<!--
-**AlanBenitez314/AlanBenitez314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _I'm not a Jedi, but I defend myself by programming cool things._
 
-Here are some ideas to get you started:
+Bienvenido/a a mi GitHub! Soy matemático y me encuentro trabajando como desarrollador de software y científico de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 ¿Qué estoy haciendo?
+
+- 🔭 Actualmente estoy trabajando en Claro AMX como desarrollador back-end y DevOps
+- 🌱 Siempre estoy intento mezclar mis conocimientos matemáticos con mis desarrollos, investigando en **Tecnologías Emergentes** y **Desarrollo Sostenible**.
+- 👯 Estoy buscando colaborar en proyectos innovadores y desafiantes!..
+- 💬 Pregúntame sobre **Python, Django, Inteligencia Artificial**, o cualquier cosa que llame tu atención.
+
+### 📫 ¿Cómo contactarme?
+
+- Email: mateconestrellas@gmail.com
+- LinkedIn: [Alan Benitez]([https://www.linkedin.com/in/tulinkedin/](https://www.linkedin.com/in/alan-benitez-3a714b275/)
+
+
+### 🚀 Mis proyectos destacados
+
+- [Nombre del Proyecto](link-al-proyecto) - Una breve descripción de lo que hace.
+- [Nombre del Proyecto](link-al-proyecto) - Resalta lo que te enorgullece de este proyecto.
+
+_No olvides revisar mis repositorios y dejarme una estrella si te gusta lo que ves._ 😉
+
