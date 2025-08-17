@@ -6,10 +6,9 @@ Bienvenido/a a mi GitHub! Soy matemático y me encuentro trabajando como desarro
 
 ### 💼 ¿Qué estoy haciendo?
 
-- 🔭 Actualmente estoy trabajando en Teleprom como desarrollador back-end y Data Scientist
-- 🌱 Siempre estoy intento mezclar mis conocimientos matemáticos con mis desarrollos, investigando en **Tecnologías Emergentes** y **Desarrollo Sostenible**.
-- 👯 Estoy buscando colaborar en proyectos innovadores y desafiantes!..
-- 💬 Pregúntame sobre **Python, Django, Inteligencia Artificial**, o cualquier cosa que llame tu atención.
+- Actualmente estoy trabajando en Teleprom como desarrollador back-end y Data Scientist
+- Siempre estoy intento mezclar mis conocimientos matemáticos con mis desarrollos, investigando en **Tecnologías Emergentes** y **Desarrollo Sostenible**.
+- Estoy buscando colaborar en proyectos innovadores y desafiantes!
 
 ### 📬 Contáctame
 
